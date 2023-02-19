@@ -57,4 +57,3 @@ Before cloning/forking this project, make sure you have the following tools inst
 - Professional and sleek design designed in line with UI/UX best practices. 
 - Use of correct semantic elements such as figure, blockquote etc.
 - Optimised images for browsers by using 'srcset' attributes on `<img>` tags.
-![image](https://user-images.githubusercontent.com/47816066/219943940-a812fcee-ca7f-4a83-8848-a5db4399f736.png)
