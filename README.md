@@ -1,16 +1,18 @@
+SPELL CHECK FOR READMEs
+
 # ketoMe-365
 KetoMe365 is a personal project for a 365 day-a-year ketogenic food subscription delivery site. Inspiration drawn from Hello Fresh and Gousto.
 
 # Description 
 
 Inspiration from hellofresh.co.uk and gousto.co.uk
-Features sticky nav bar, mobile navigation, 180° rotating hover effect on pricing cards using CSS perspctive property, fully reponsible and accessible thanks to the power of flex box and CSS Grid. 
+Features sticky nav bar, mobile navigation, 180° rotating hover effect on pricing cards using CSS perspective property, fully responsive and accessible thanks to the power of flex box and CSS Grid. 
 
 ## Demo
 
 Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://ketome365.netlify.app/)
 
-You can also clone the project and open it in localhost (See Prerequisits below).
+You can also clone the project and open it in localhost (See Prerequisites below).
 
 ## 🛠 Technologies
 - [x] HTML
@@ -26,16 +28,16 @@ user experience.
 - I used git to track my files locally and created branches using git switch -c new-branch.
 - I designed a rough paper sketch of the layout of each section so I had a mental model of html elements.
 - I envisioned user goals, what they wanted to accomplish and established consistent design patterns to reinforce UI/UX principles
-- For future projects I intend to explore using Jira for a more formal project magagement experience. 
+- For future projects I intend to explore using Jira for a more formal project management experience. 
 
 ## If I Had More Time I Would Change
 
 Add more branding colors. I approached the project using a green branding color, synonymous with health and vitality. I used tints and
 shades of the primary color to provide visual hierarchy for a better user experience. 
 
-However, I feel that the design needs additional brand colors, especially for the pricing section which indicates the 3 tier pricing structure. I will return to this project soon, add css variables for all colors and add a wider range of color palettes. 
+However, I feel that the design needs additional brand colors, especially for the pricing section which indicates the 3-tier pricing structure. I will return to this project soon, add css variables for all colors and add a wider range of color palettes. 
 
-## Prerequisits
+## Prerequisites
 
 Before cloning/forking this project, make sure you have the following tools installed:
 
@@ -47,7 +49,7 @@ Before cloning/forking this project, make sure you have the following tools inst
 1. Fork the project
 2. Clone the project
 3. Follow the instructions in the console:
-4. Navigate to the project directory cd sos-animals
+4. Navigate to the project directory cd directory-name
 5. Install the dependencies npm install
 6. Run the project npm start
 
@@ -57,3 +59,4 @@ Before cloning/forking this project, make sure you have the following tools inst
 - Professional and sleek design designed in line with UI/UX best practices. 
 - Use of correct semantic elements such as figure, blockquote etc.
 - Optimised images for browsers by using 'srcset' attributes on `<img>` tags.
+![image](https://user-images.githubusercontent.com/47816066/219943940-a812fcee-ca7f-4a83-8848-a5db4399f736.png)
