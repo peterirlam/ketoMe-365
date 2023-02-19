@@ -8,7 +8,7 @@ Features sticky nav bar, mobile navigation, 180° rotating hover effect on prici
 
 ## Demo
 
-Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://ketome365.netlify.app/ target="_blank")
+Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://ketome365.netlify.app/)
 
 You can also clone the project and open it in localhost (See Prerequisites below).
 
