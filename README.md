@@ -3,7 +3,7 @@ KetoMe365 is a personal project for a 365 day-a-year ketogenic food subscription
 
 # Description 
 
-Features sticky nav bar, mobile navigation, 180° rotating hover effect on pricing cards using CSS perspective property, fully responsive and accessible thanks to the power of flex box and CSS Grid. 
+Features sticky nav bar, mobile navigation, 180° rotating hover animation on pricing cards using CSS perspective property, fully responsive and accessible thanks to the power of flex box and CSS Grid. 
 
 ## Demo
 
