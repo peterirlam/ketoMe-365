@@ -1,4 +1,4 @@
-# ketoMe-365
+# 💻 ketoMe-365
 KetoMe365 is a personal project for a 365 day-a-year ketogenic food subscription delivery site. Inspiration drawn from Hello Fresh and Gousto.
 
 # 📖 Description 
