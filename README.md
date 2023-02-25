@@ -17,7 +17,8 @@ You can also clone the project and open it in localhost (See Prerequisites below
 - [x] JavaScript
 
 ## 🎱 Why I Chose This Project
-I wanted to showcase my ability in creating a visually striking landing page writing my own 'copy' (content) rather than Lorem placeholder text.  
+I wanted to showcase my ability in creating a visually striking landing page writing my own 'copy' (content) rather than Lorem placeholder text.
+
 I built the project using HTML, CSS and JavaScript with particular focus on CSS for a fully responsive and highly accessible
 user experience. 
 
