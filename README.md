@@ -34,7 +34,7 @@ shades of the primary color to provide visual hierarchy for a better user experi
 
 However, I feel that the design needs additional brand colors, especially for the pricing section which indicates the 3-tier pricing structure. I will return to this project soon, add css variables for all colors and add a wider range of color palettes. 
 
-## Prerequisites
+## 📦 Prerequisites
 
 Before cloning/forking this project, make sure you have the following tools installed:
 
